@@ -1,0 +1,1 @@
+This is my Etch-a-Sketch Assignment Javascript Program!
